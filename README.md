@@ -2,7 +2,7 @@
 
 TensorFlow2.0 implementation of ["Trajectory-wise Multiple Choice Learning for Dynamics Generalization in Reinforcement Learning"](https://arxiv.org/abs/2010.13303) (NeurIPS 2020).
 
-Since the TF1.0 code was too painful for researchers to follow, this repo upgrades the T-CML code to the more friendly TF2.0 version for further development and research by researchers
+Since the TF1.0 code is too painful for researchers to follow, this repo upgrades the T-CML code to the more friendly TF2.0 version for further development and research by researchers.
 
 ## Instructions
 
