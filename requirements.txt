@@ -11,7 +11,6 @@ chardet==3.0.4
 Click==7.0
 cloudpickle==1.2.2
 Cython==0.29.15
-dataclasses==0.7
 decorator==4.4.1
 dill==0.3.1.1
 dotmap==1.2.20
@@ -40,7 +39,7 @@ mccabe==0.6.1
 monotonic==1.5
 more-itertools==8.2.0
 mpi4py==3.0.3
-mujoco-py==2.0.2.9
+mujoco-py==2.0.2.5
 multipledispatch==0.6.0
 numpy==1.18.1
 olefile==0.46
@@ -72,11 +71,10 @@ pyzmq==18.1.1
 requests==2.22.0
 scipy==1.4.1
 six==1.14.0
-tensorboard==1.15.0
 tensorboardX==2.0
-tensorflow==1.15.0
-tensorflow-estimator==1.15.1
-tensorflow-gpu==1.15.0
+pyprind=='2.11.3'
+tensorflow-gpu==2.2.0
+tensorflow_probability==0.10.0
 termcolor==1.1.0
 tqdm==4.19.4
 traitlets==4.3.3
